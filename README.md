@@ -26,10 +26,9 @@ Client ID:
 
 Client Secret
 
-spring.application.name=OauthClient
-
 Editar o application.properties inserindo as informações obtidas do application do auth0.
 ```
+spring.application.name=OauthClient
 spring.security.oauth2.client.registration.auth0.provider=auth0
 spring.security.oauth2.client.registration.auth0.redirect-uri={baseUrl}/login/oauth2/code/{registrationId}
 spring.security.oauth2.client.registration.auth0.scope=openid
