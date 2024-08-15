@@ -18,6 +18,9 @@ Caso hajam dúvidas, siga a documentação
 
 ![img_4.png](img_4.png)
 
+Configurar o redirecionamento para a API spring boot.
+![img_5.png](img_5.png)
+
 Esses atributos deverão ser configurados posteriormete no *application.properties*.
 
 Domain: 
